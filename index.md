@@ -1,5 +1,5 @@
 # Contact
-**Contact: [dim.lit.studio@gmail.com](mailto:dim.lit.studio@gmail.com)**
+**Mail to: [dim.lit.studio@gmail.com](mailto:dim.lit.studio@gmail.com)**
 
 ## Game Assets 
 
