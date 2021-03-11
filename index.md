@@ -3,7 +3,7 @@
 
 ## Game Assets 
 
-![Axe]()![Low polygon axe](https://user-images.githubusercontent.com/80362509/110819341-62d49d00-828e-11eb-91fc-ae854f632e65.png)
+![Low polygon axe](https://user-images.githubusercontent.com/80362509/110819341-62d49d00-828e-11eb-91fc-ae854f632e65.png)
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
