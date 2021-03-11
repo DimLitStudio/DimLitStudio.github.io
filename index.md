@@ -1,5 +1,7 @@
 # Contact
-** Contact: [dim.lit.studio@gmail.com](mailto:dim.lit.studio@gmail.com) **
+**Contact: [dim.lit.studio@gmail.com](mailto:dim.lit.studio@gmail.com)**
+
+## Game Assets 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
