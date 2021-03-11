@@ -1,4 +1,5 @@
-<bold> Contact: [dim.lit.studio@gmail.com](mailto:dim.lit.studio@gmail.com) <bold>
+# Contact
+**Bold** Contact: [dim.lit.studio@gmail.com](mailto:dim.lit.studio@gmail.com) **Bold**
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
