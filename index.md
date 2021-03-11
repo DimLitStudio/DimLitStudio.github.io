@@ -3,7 +3,8 @@
 
 ## Game Assets 
 
-![Low polygon axe](https://user-images.githubusercontent.com/80362509/110819341-62d49d00-828e-11eb-91fc-ae854f632e65.png)
+![Low polygon axe](https://user-images.githubusercontent.com/80362509/110819341-62d49d00-828e-11eb-91fc-ae854f632e65.png) ![LowPolyKnife](https://user-images.githubusercontent.com/80362509/110842935-05e5e080-82a8-11eb-809d-df7edde18c06.png)
+
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
